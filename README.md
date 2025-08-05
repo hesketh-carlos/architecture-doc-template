@@ -1,12 +1,12 @@
-# Exemplo de Documentação de Arquitetura
+# Architecture Documentation Example
 
-Este repositório serve como exemplo de como organizar a documentação de arquitetura de um sistema de software,
-utilizando boas práticas como o modelo C4 para diagramas e registros de decisões arquiteturais (ADR).
+This repository serves as an example of how to organize the architecture documentation of a software system,
+following best practices such as the C4 model for diagrams and Architecture Decision Records (ADRs).
 
-## Estrutura
-- **docs/** → Documentos de arquitetura
-- **diagrams/** → Diagramas (C4, UML, BPMN, etc.)
-- **examples/** → Exemplos de código e configuração
+## Structure
+- **docs/** → Architecture documents
+- **diagrams/** → Diagrams (C4, UML, BPMN, etc.)
+- **examples/** → Code and configuration examples
 
-## Licença
-Este conteúdo é licenciado sob a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+## License
+This work is licensed under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/).
